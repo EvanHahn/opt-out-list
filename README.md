@@ -21,3 +21,5 @@ Lots of services track you, usually to serve better ads. Many services let you o
   - [Twitter: Security and privacy settings](https://twitter.com/settings/security)
 - Xfinity
   - [Xfinity: Your Advanced Advertising Preferences for Cable Video Services](https://www.xfinity.com/adservices)
+
+Want to contribute to this list? Send an email to <me@evanhahn.com> or make a pull request [on GitHub](https://github.com/EvanHahn/opt-out-list).
