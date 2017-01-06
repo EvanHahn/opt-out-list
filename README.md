@@ -3,6 +3,8 @@ Opt Out List
 
 Lots of services track you, usually to serve better ads. Many services let you opt out of this in one way or another. This aims to catalog how to do this for various services.
 
+- eBay
+  - [eBay AdChoice](http://cgi6.ebay.com/ws/eBayISAPI.dll?AdPreferenceCmd)
 - Facebook
   - [Facebook ads settings](https://www.facebook.com/settings?tab=ads)
 - Google
