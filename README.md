@@ -12,3 +12,5 @@ Lots of services track you, usually to serve better ads. Many services let you o
   - [Linkedin data privacy and advertising settings](https://www.linkedin.com/psettings/privacy#data-privacy)
 - Stack Overflow
   - [Stack Overflow: Your Personalized Prediction Data](https://stackoverflow.com/users/prediction-data)
+- Xfinity
+  - [Xfinity: Your Advanced Advertising Preferences for Cable Video Services](https://www.xfinity.com/adservices)
